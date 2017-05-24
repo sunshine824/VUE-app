@@ -14,4 +14,4 @@ npm run build
 
 ```
 ## 项目实现效果图
-![](https://github.com/sunshine824/WeChat_Reader-Movie/blob/master/static/jdfw.gif)
+![](https://github.com/sunshine824/VUE-app/blob/master/static/jdfw.gif)
